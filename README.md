@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @911-911934
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning shit
-- 💞️ I’m looking to collaborate on ntg
-- 📫 How to reach me idk
-- 😄 Pronouns: stfu
-- ⚡ Fun fact: the sky is blue
+- 👋 Hi, I’m jabez
+- 👀 I’m interested 
+- 🌱 I’m currently learning in
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 911-911934/911-911934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
